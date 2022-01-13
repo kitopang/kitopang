@@ -1,2 +1,2 @@
 - This repository has a few of my personal projects I've been working on
-- Feel free to check out my LinkedIn: kitopang
+- https://www.linkedin.com/in/kitopang/
