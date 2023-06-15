@@ -3,9 +3,9 @@
 <h1 align="left">:wave: Hi there, I'm Kito </h1>
 
 <h3 align="left" style="line-height: 2;">
-- :open_book: I am a 3rd year student at University of Maryland studying computer science, stat, and ML.<br><br>
+- :open_book: I am a 3rd year student at University of Maryland studying Computer Science, Stat, and ML.<br><br>
 - :satellite: I am currently interning at Hughes as part of the OneWeb Satellite team.<br><br>
-- :computer: I am interested in web dev, machine learning, and embedded software. 
+- :computer: I am interested in Web Dev, Machine Learning, and Embedded Software. 
 </h3>
 
 <br>
