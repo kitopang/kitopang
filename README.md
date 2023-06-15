@@ -2,20 +2,14 @@
 
 <h1 align="left">:wave: Hi there, I'm Kito </h1>
 
-<h3 align="left"> 
-Some info about me:
+<h3 align="left" style="line-height: 2;">
+- :open_book: I am a 3rd year student at University of Maryland studying computer science, stat, and ML.<br><br>
+- :satellite: I am currently interning at Hughes as part of the OneWeb Satellite team.<br><br>
+- :computer: I am interested in web dev, machine learning, and embedded software. 
+</h3>
 
-<h4 align="left"> 
-  - 3rd year student at University of Maryland studying computer science, stat, and ML.  
-  <br>
-  - Writing software at Hughes as part of the OneWeb Satellite team. 
-  <br>
-  - Interested in web dev, machine learning, and embedded software.</h4>
-  <br>
-
-<h1 align="left">Tech Stack :man_technologist:  </h1>
-
-
+<br>
+<h2 align="left">My Tech Stack :man_technologist:  </h2>
 <h4 align="left"> Languages </h4>
 <p align="left">
 <a target="_blank"><img  src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"  alt="javascript"/></a>
@@ -34,6 +28,11 @@ Some info about me:
 <p align="left">
 <a target="_blank"><img  src="https://img.shields.io/badge/node.js-%236DB33F.svg?style=for-the-badge&logo=node.js&logoColor=white"  alt="node"/></a>
 <a target="_blank"><img  src="https://img.shields.io/badge/express-%230000FF.svg?style=for-the-badge&logo=express&logoColor=white"  alt="express"/></a>
+<a target="_blank"><img  src="https://img.shields.io/badge/socket.io-%2325c2a0.svg?style=for-the-badge&logo=socket.io&logoColor=white"  alt="socket.io"/></a>
+<a target="_blank"><img  src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white"  alt="flask"/></a>
+<a target="_blank"><img  src="https://img.shields.io/badge/pinecone-%23b0905f.svg?style=for-the-badge&logo=pinecone&logoColor=white"  alt="pinecone"/></a>
+
+
 
 <h4 align="left"> Dev Tools </h4>
 <p align="left">
