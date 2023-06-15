@@ -6,11 +6,11 @@
 Some info about me:
 
 <h4 align="left"> 
-  - 3rd year student at University of Maryland studying computer science, statistics, and machine learning. 
+  - 3rd year student at University of Maryland studying computer science, stat, and ML.  
   <br>
   - Writing software at Hughes as part of the OneWeb Satellite team. 
   <br>
-  - Interested in web development, machine learning, and embedded software.</h4>
+  - Interested in web dev, machine learning, and embedded software.</h4>
   <br>
 
 <h1 align="left">Tech Stack :man_technologist:  </h1>
