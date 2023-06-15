@@ -11,6 +11,7 @@ Some info about me:
   - Writing software at Hughes as part of the OneWeb Satellite team. 
   <br>
   - Interested in web development, machine learning, and embedded software.</h4>
+  <br>
 
 <h1 align="left">Tech Stack :man_technologist:  </h1>
 
