@@ -12,7 +12,7 @@ Some info about me:
   <br>
   - Interested in web development, machine learning, and embedded software.</h4>
 
-<h2 align="left">Tech Stack :man_technologist:  </h2>
+<h1 align="left">Tech Stack :man_technologist:  </h1>
 
 
 <h4 align="left"> Languages </h4>
