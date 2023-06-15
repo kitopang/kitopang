@@ -2,7 +2,7 @@
 
 <h1 align="left">:wave: Hi there, I'm Kito </h1>
 
-<h2 align="left"> 
+<h3 align="left"> 
 Some info about me:
 
 <h3 align="left"> 
