@@ -2,10 +2,10 @@
 
 <h1 align="left">:wave: Hi there, I'm Kito </h1>
 
-<h3 align="left"> 
+<h2 align="left"> 
 Some info about me:
 
-<h4 align="left"> 
+<h3 align="left"> 
   - 3rd year student at University of Maryland studying computer science, statistics, and machine learning. 
   <br>
   - Writing software at Hughes as part of the OneWeb Satellite team. 
