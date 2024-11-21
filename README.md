@@ -3,7 +3,7 @@
 <h1 align="left">:wave: Hi there, I'm Kito </h1>
 
 
-  I am a junior at the University of Maryland studying CS, statistics, and machine learning. I am primarily interested in AI, ML, and emerging technologies.   
+  I am a junior at the University of Maryland studying CS, statistics, and machine learning. I am primarily interested in AI, ML, and new tech.   
   
   This github has a few cool projects I'm working on, so please check them out!
 
